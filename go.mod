@@ -39,7 +39,7 @@ require (
 	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.59.1
 	github.com/rancher/fleet/pkg/apis v0.10.0
-	github.com/rancher/lasso v0.0.0-20240828170735-d79536cac289
+	github.com/rancher/lasso v0.0.0-20240910154902-591e606abb5f
 	github.com/rancher/wrangler/v3 v3.0.0
 	github.com/reugn/go-quartz v0.11.2
 	github.com/sirupsen/logrus v1.9.3
@@ -66,7 +66,7 @@ require (
 	k8s.io/utils v0.0.0-20240821151609-f90d01438635
 	oras.land/oras-go/v2 v2.5.0
 	sigs.k8s.io/cli-utils v0.35.0
-	sigs.k8s.io/controller-runtime v0.18.4
+	sigs.k8s.io/controller-runtime v0.18.5
 	sigs.k8s.io/controller-tools v0.15.0
 	sigs.k8s.io/kustomize/api v0.13.5-0.20230601165947-6ce0bf390ce3
 	sigs.k8s.io/kustomize/kyaml v0.14.3-0.20230601165947-6ce0bf390ce3
